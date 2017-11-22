@@ -1,7 +1,7 @@
 # Jenkins JNLP Agent for Windows Docker Image
 
-[![](https://img.shields.io/docker/stars/campbelldgunn/jenkins-jnlp-slave-windows.svg)](https://hub.docker.com/r/campbelldgunn/jenkins-jnlp-slave-windows)
-[![](https://img.shields.io/docker/pulls/campbelldgunn/jenkins-jnlp-slave-windows.svg)](https://hub.docker.com/r/campbelldgunn/jenkins-jnlp-slave-windows)
+[![](https://img.shields.io/docker/stars/campbelldgunn/jenkins-jnlp-slave-windows.svg)](https://hub.docker.com/r/campbelldgunn/jnlp-slave-win)
+[![](https://img.shields.io/docker/pulls/campbelldgunn/jenkins-jnlp-slave-windows.svg)](https://hub.docker.com/r/campbelldgunn/jnlp-slave-win)
 
 This is a base image for Jenkins agent (FKA "slave") on Windows using JNLP to establish connection.
 This agent is powered by the Jenkins Remoting library, taken from their [artifacts repository](https://repo.jenkins-ci.org/public/org/jenkins-ci/main/remoting/).
